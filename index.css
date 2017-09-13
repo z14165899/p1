@@ -1,0 +1,12 @@
+h1,
+h2,
+p
+{
+    text-align: center;
+}
+
+img {
+    max-width: 300px;
+    margin: auto;
+    display: block;
+}
